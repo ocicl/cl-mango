@@ -1,0 +1,10 @@
+* cl-mango
+
+A minimalist CouchDB 2.x database client.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cmoore/cl-mango.git   |
+| commit  | 631f41f  |
+| systems | cl-mango |
+|---------+-------------------------------------------|
+
