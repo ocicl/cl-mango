@@ -8,3 +8,4 @@ A minimalist CouchDB 2.x database client.
 | systems | cl-mango |
 |---------+-------------------------------------------|
 
+ 
